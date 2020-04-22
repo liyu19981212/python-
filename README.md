@@ -8,4 +8,5 @@ pip install pandas
 获取数据的网站时驾考宝典
 url = http://www.jiakaobaodian.com/
 自学自用
-从今天开始我李冬虎要开始拥抱GitHub了
+后面聚类分析部分实现见我的博客（之前一直没更新）
+https://blog.csdn.net/sdwujk160507140150/article/details/90755480
